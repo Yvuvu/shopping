@@ -1,0 +1,21 @@
+2020-09-01T00:43:32+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Error as array in C:\xampp\htdocs\maryshop\wp-content\plugins\mailchimp-for-woocommerce\admin\class-mailchimp-woocommerce-admin.php:1689
+Stack trace:
+#0 C:\xampp\htdocs\maryshop\wp-includes\class-wp-hook.php(287): MailChimp_WooCommerce_Admin->mailchimp_woocommerce_communication_status('')
+#1 C:\xampp\htdocs\maryshop\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\maryshop\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\maryshop\wp-admin\admin-ajax.php(175): do_action('wp_ajax_mailchi...')
+#4 {main}
+  thrown dans C:\xampp\htdocs\maryshop\wp-content\plugins\mailchimp-for-woocommerce\admin\class-mailchimp-woocommerce-admin.php à la ligne 1689
+
+2020-09-01T14:13:09+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\maryshop\wp-content\plugins\facebook-for-woocommerce\includes\Handlers\Connection.php à la ligne 15
+
+2020-09-01T14:20:05+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\maryshop\wp-content\plugins\woocommerce\packages\woocommerce-rest-api\src\Controllers\Version3\class-wc-rest-crud-controller.php à la ligne 10
+
+2020-09-01T14:20:05+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\maryshop\wp-content\plugins\woocommerce\packages\woocommerce-rest-api\src\Controllers\Version3\class-wc-rest-crud-controller.php à la ligne 10
+
+2020-09-01T14:20:05+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\maryshop\wp-content\plugins\woocommerce\packages\woocommerce-rest-api\src\Controllers\Version3\class-wc-rest-crud-controller.php à la ligne 10
+
+2020-09-01T14:20:05+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\maryshop\wp-content\plugins\woocommerce\packages\woocommerce-rest-api\src\Controllers\Version3\class-wc-rest-crud-controller.php à la ligne 10
+
+2020-09-01T14:20:20+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\maryshop\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\API\Reports\Coupons\Controller.php à la ligne 10
+

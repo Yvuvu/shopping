@@ -1,0 +1,4 @@
+2020-08-31T10:43:10+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\maryshop\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_QueueCleaner.php à la ligne 6
+
+2020-08-31T10:49:07+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\maryshop\wp-content\themes\ecommerce-gem\includes\tgm\class-tgm-plugin-activation.php à la ligne 35
+

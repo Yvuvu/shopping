@@ -1,0 +1,165 @@
+2020-09-01T00:41:26+00:00 NOTICE sync_store :: posting data :: Array
+(
+    [store_post] => Array
+        (
+            [id] => 5f48afe38df08
+            [is_syncing] => 
+            [platform] => woocommerce
+            [list_id] => d80ac4b0cd
+            [name] => Maryshop
+            [domain] => http://localhost/maryshop
+            [email_address] => desse.maryvonne@gmail.com
+            [currency_code] => USD
+            [money_format] => $
+            [primary_locale] => fr
+            [timezone] => Europe/Paris
+            [phone] => +22602990003
+            [address] => Array
+                (
+                    [address1] => http://maryshopfacebook@gmail.com
+                    [city] => ouagadougou
+                    [province] => Ouaaga
+                    [postal_code] => BP0226
+                    [country] => BF
+                    [country_code] => BF
+                    [phone] => +22602990003
+                    [company] => Maryshop
+                )
+
+        )
+
+)
+
+2020-09-01T00:41:43+00:00 NOTICE sync_store :: posting data :: Array
+(
+    [store_post] => Array
+        (
+            [id] => 5f48afe38df08
+            [is_syncing] => 
+            [platform] => woocommerce
+            [list_id] => d80ac4b0cd
+            [name] => Maryshop
+            [domain] => http://localhost/maryshop
+            [email_address] => desse.maryvonne@gmail.com
+            [currency_code] => USD
+            [money_format] => $
+            [primary_locale] => fr
+            [timezone] => Europe/Paris
+            [phone] => +22602990003
+            [address] => Array
+                (
+                    [address1] => http://maryshopfacebook@gmail.com
+                    [city] => ouagadougou
+                    [province] => Ouaaga
+                    [postal_code] => BP0226
+                    [country] => BF
+                    [country_code] => BF
+                    [phone] => +22602990003
+                    [company] => Maryshop
+                )
+
+        )
+
+)
+
+2020-09-01T00:41:54+00:00 NOTICE sync_store :: posting data :: Array
+(
+    [store_post] => Array
+        (
+            [id] => 5f48afe38df08
+            [is_syncing] => 
+            [platform] => woocommerce
+            [list_id] => d80ac4b0cd
+            [name] => Maryshop
+            [domain] => http://localhost/maryshop
+            [email_address] => desse.maryvonne@gmail.com
+            [currency_code] => USD
+            [money_format] => $
+            [primary_locale] => fr
+            [timezone] => Europe/Paris
+            [phone] => +22602990003
+            [address] => Array
+                (
+                    [address1] => http://maryshopfacebook@gmail.com
+                    [city] => ouagadougou
+                    [province] => Ouaaga
+                    [postal_code] => BP0226
+                    [country] => BF
+                    [country_code] => BF
+                    [phone] => +22602990003
+                    [company] => Maryshop
+                )
+
+        )
+
+)
+
+2020-09-01T00:42:02+00:00 NOTICE mailchimp-woocommerce-sync.started :: Starting Sync :: Tue, Sep 1, 2020 12:42 AM
+2020-09-01T00:42:07+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Process_Coupons queued :: page 1
+2020-09-01T00:42:07+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Process_Coupons queued :: page 2
+2020-09-01T00:42:30+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_SingleCoupon queued :: obj_id 76
+2020-09-01T00:42:31+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_SingleCoupon queued :: obj_id 77
+2020-09-01T00:42:31+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_SingleCoupon queued :: obj_id 78
+2020-09-01T00:42:34+00:00 NOTICE coupon_sync.completed :: Done with the coupon queueing.
+2020-09-01T00:42:34+00:00 NOTICE sync.full_sync_manager.queue :: Starting PRODUCTS queueing.
+2020-09-01T00:42:34+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Process_Products queued :: page 1
+2020-09-01T00:42:34+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Process_Products queued :: page 2
+2020-09-01T00:43:26+00:00 ERROR promo_code_submit.error :: error updating promo rule #76 :: minipromo :: Error Code 500 :: CURL error :: Could not resolve host: us17.api.mailchimp.com on 1771 in C:\xampp\htdocs\maryshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2020-09-01T00:43:41+00:00 ERROR promo_code_submit.error :: error updating promo rule #77 :: megapromo :: Error Code 500 :: CURL error :: Could not resolve host: us17.api.mailchimp.com on 1771 in C:\xampp\htdocs\maryshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2020-09-01T00:44:40+00:00 NOTICE promo_code_submit.success :: #78 :: code: superpromo
+2020-09-01T00:44:40+00:00 NOTICE sync_store :: posting data :: Array
+(
+    [store_post] => Array
+        (
+            [id] => 5f48afe38df08
+            [is_syncing] => 1
+            [platform] => woocommerce
+            [list_id] => d80ac4b0cd
+            [name] => Maryshop
+            [domain] => http://localhost/maryshop
+            [email_address] => desse.maryvonne@gmail.com
+            [currency_code] => USD
+            [money_format] => $
+            [primary_locale] => fr
+            [timezone] => Europe/Paris
+            [phone] => +22602990003
+            [address] => Array
+                (
+                    [address1] => http://maryshopfacebook@gmail.com
+                    [city] => ouagadougou
+                    [province] => Ouaaga
+                    [postal_code] => BP0226
+                    [country] => BF
+                    [country_code] => BF
+                    [phone] => +22602990003
+                    [company] => Maryshop
+                )
+
+        )
+
+)
+
+2020-09-01T00:44:49+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 42
+2020-09-01T00:44:50+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 49
+2020-09-01T00:44:50+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 53
+2020-09-01T00:44:50+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 54
+2020-09-01T00:44:50+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 62
+2020-09-01T00:44:50+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 67
+2020-09-01T00:44:50+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 85
+2020-09-01T00:44:50+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 86
+2020-09-01T00:44:51+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 88
+2020-09-01T00:44:51+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 95
+2020-09-01T00:44:53+00:00 NOTICE product_sync.completed :: Done with the product queuing
+2020-09-01T00:44:57+00:00 NOTICE product_submit.success :: addStoreProduct :: #42
+2020-09-01T00:45:12+00:00 NOTICE product_submit.success :: addStoreProduct :: #49
+2020-09-01T00:45:30+00:00 NOTICE product_submit.success :: addStoreProduct :: #53
+2020-09-01T00:45:47+00:00 NOTICE product_submit.success :: addStoreProduct :: #54
+2020-09-01T00:45:55+00:00 NOTICE product_submit.success :: addStoreProduct :: #62
+2020-09-01T00:45:59+00:00 NOTICE product_submit.success :: addStoreProduct :: #67
+2020-09-01T00:46:02+00:00 NOTICE product_submit.success :: addStoreProduct :: #85
+2020-09-01T00:46:05+00:00 NOTICE product_submit.success :: addStoreProduct :: #86
+2020-09-01T00:46:07+00:00 NOTICE product_submit.warning :: addStoreProduct :: post #88 was invalid.
+2020-09-01T00:46:19+00:00 NOTICE product_submit.success :: addStoreProduct :: #95
+2020-09-01T00:46:28+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Process_Orders queued :: page 1
+2020-09-01T00:46:30+00:00 NOTICE order_sync.completed :: Done with the order queueing.
+2020-09-01T00:46:58+00:00 NOTICE sync.completed :: Finished Sync :: Tue, Sep 1, 2020 12:46 AM (total time: 00:04:57)
